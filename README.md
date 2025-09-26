@@ -13,7 +13,7 @@ Então aprendi sobre herança, polimorfismo e encapsulamento.
 ---
 
 ## 📂 Estrutura do Projeto
-- **Main.java** → Classe principal, ponto de entrada da aplicação.
+- **NarutoEnsina.java** → Classe principal, ponto de entrada da aplicação.
 - **Ninja.java** → Classe base que representa um ninja genérico.
 - **Uchiha.java** → Classe que herda de `Ninja`, representando o clã Uchiha.
 - **Uzumaki.java** → Classe que herda de `Ninja`, representando o clã Uzumaki.
