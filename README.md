@@ -1,9 +1,8 @@
 # 🥷 POO com Naruto (Java)
 
-Estes códigos foram feitos acompanhando um vídeo do YouTuber Fiasco que ensina conceitos fundamentais de **Programação Orientada a Objetos (POO)** em Java utilizando personagens do anime *Naruto*, rir muito e aprendi bastante com ele. Recomendo! Este é o link https://youtu.be/OIYWA1GwCEs?si=RbpEZrmXRMmfLTgv
-.
+Estes códigos foram feitos acompanhando um vídeo do YouTuber Fiasco que ensina conceitos fundamentais de POO em Java utilizando personagens do anime *Naruto*, rir muito e aprendi bastante com ele. Recomendo! Este é o link https://youtu.be/OIYWA1GwCEs?si=RbpEZrmXRMmfLTgv .
 
-A ideia é mostrar como **classes, herança e objetos** funcionam na prática de uma forma divertida e intuitiva.  
+Então aprendi sobre herança, polimorfismo e encapsulamento.
 
 ---
 
